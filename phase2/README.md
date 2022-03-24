@@ -58,7 +58,7 @@ Note: It's a overkill. But at the end of the day, if you want to take them, go f
   
 ## What's next
 
-[Go to Phase 3: Cyber Security](../phase3/README.md)
+### [Go to Phase 3: Cyber Security](../phase3/README.md)
 
 [Go back to Phase 1: Networking and cloud fundamentals](../phase1/README.md)
 

@@ -77,6 +77,8 @@ At the end of the day, if you want to take them, go for it :)
 
 This is the end of Cyber Security Basics. And we will continuously keep on adding/updating the resourses. We hope the above topics will give you enough knowledge and confident about cyber security and now, you can go and apply for security related jobs. All the best for your job search!
 
+But, If you need to explore more resources or more hands-on Training, [click here](../Additional/README.md)
+
 [Go back to homepage](../README.md)
 
 Note: In Resources section, you will leave this domain by accesing the links provided for references. Beware of external sites asking for your personal information (e.g. phone numbers, credit cards). You may become a victim of a phishing attack! We are not responsible for any such incidents.

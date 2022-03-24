@@ -48,6 +48,6 @@ At the end of the day, its overkill. But if you want to take them, go for it :)
 
 ### [Go to Phase 2: Linux fundamentals](../phase2/README.md)
 
- [Go Back to Phase 0: Starting from zero](../phase1/README.md)
+ [Go Back to Phase 0: Starting from zero](../phase0/README.md)
 
 Note: In Resources section, you will leave this domain by accesing the links provided for references. Beware of external sites asking for your personal information (e.g. phone numbers, credit cards). You may become a victim of a phishing attack! We are not responsible for any such incidents.

@@ -51,6 +51,6 @@ Take a look at this video by KevTech on [Helpdesk interview questions](https://y
 ## What's next
 
 
-[Go to Phase 1: Linux and Networking fundamentals](../phase1/README.md)
+### [Go to Phase 1: Linux and Networking fundamentals](../phase1/README.md)
 
 [Go back to homepage](../README.md)
